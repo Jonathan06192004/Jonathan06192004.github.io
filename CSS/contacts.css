@@ -94,3 +94,17 @@ footer {
     padding: 20px;
     text-align: center;
 }
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+/* Media query for screens smaller than 600px */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+.box {
+    flex: 1;
+}

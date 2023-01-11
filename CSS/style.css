@@ -48,7 +48,7 @@ li a:hover {
     
 }
 span{
-    color: #e2ec22;
+    color: #575c05;
     
 }
 .banner p#paragraph1{
@@ -96,4 +96,7 @@ body {
     body {
         font-size: 14px;
     }
+}
+.box {
+    flex: 1;
 }
