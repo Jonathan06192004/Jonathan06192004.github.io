@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    padding: 0px;
+}
+#navbar{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 77px;
+    z-index: 999;
+    background-color: #232323;
+    position: fixed;
+}
+#navbar #nav{
+    float: right;
+    padding-top: 15px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+}
+li a{
+    text-decoration: none;
+    color: #0a0a0ae1;
+    padding: 10px 18px;
+    font-weight: bold;
+    background: white;
+    display: inline-block;
+    margin: -10px;
+    border-radius: 5px;
+}
+li a:hover {
+    color: #e2ec22;
+}
+#logo{
+    float: left;
+}
+.banner{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.banner h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px;
+    text-align: left;
+}
+form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type="submit"] {
+    padding: 0.4em 1em;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #46a049;
+}
+.social a{
+    text-decoration: none;
+    color: #130157e1;
+    padding: 17px 22px;
+    font-weight: bold;
+    background: #e2ec22;
+    display: inline-block;
+    border-radius: 26px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.container {
+    padding: 20px;
+    text-align: center;
+}
