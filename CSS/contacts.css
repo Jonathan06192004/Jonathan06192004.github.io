@@ -104,6 +104,26 @@ body {
     body {
         font-size: 14px;
     }
+    .container{
+        margin: 10px 5px;
+        font-size: 17px;
+        font-weight: bold;
+        align-items: center;
+        justify-content: center;
+        border-radius: 20%;
+    }
+    .container ul {
+        margin-left: -27px;
+    }
+    li {
+        padding-right: 10px;
+    }
+    li a{
+        font-size: 5px;
+        margin: -3px;
+        font-weight: bold;
+        display: inline-block;
+    }
 }
 .box {
     flex: 1;
