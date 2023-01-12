@@ -96,7 +96,7 @@ body {
         border-radius: 20%;
     }
     .container ul {
-        margin-left: -27px;
+        margin-left: 58px;
     }
     li {
         padding-right: 10px;
@@ -108,10 +108,34 @@ body {
         display: inline-block;
     }
     .banner h1 {
-        font-size: 50px;
+        font-size: 18px;
+        padding-top: 93px;
     }
     .basta video {
         width: 100%;
+        margin-bottom: 88px;
+    }
+    #navbar #logo img {
+        margin-left: -76px;
+    }
+    #nav ul {
+        float: right;
+        margin-top: -70px;
+    }
+    footer {
+        margin: -87px;
+    }
+    p#yawa {
+        font-size: 9px;
+    }
+    p#haha {
+        font-size: 9px;
+    }
+    p#huhu {
+        margin-left: 83px;
+    }
+    .social {
+        margin-left: 107px;
     }
 }
 .box {

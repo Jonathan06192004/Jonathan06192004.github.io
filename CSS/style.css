@@ -105,8 +105,8 @@ body {
         border-radius: 20%;
     }
     .container ul {
-        margin-left: -27px;
-    }
+        margin-left: 58px;
+        }
     li {
         padding-right: 10px;
     }
@@ -121,12 +121,32 @@ body {
         width: 66%;
     }
     .banner h1 {
-        font-size: 50px;
+        font-size: 18px;
+        padding-top: 93px;
+    }
+    .images img {
+        margin: 93px;   
+    }
+    .banner p#paragraph1 {
+        font-size: 9px;
+    }
+    #nav ul {
+        float: right;
+        margin-top: -70px;
 
     }
-    .images {
-        margin: 79px;
-        float: right;
+    footer {
+        margin: -87px;
+    }
+    .social a{
+        margin-left: 58px;
+        margin-right: -41px;
+    }
+    p#yawa {
+        margin-left: 83px;
+    }
+    #navbar #logo img {
+        margin-left: -76px;
     }
 }
 .box {

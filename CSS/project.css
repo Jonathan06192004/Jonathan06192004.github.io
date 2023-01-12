@@ -89,7 +89,7 @@ body {
         border-radius: 20%;
     }
     .container ul {
-        margin-left: -27px;
+        margin-left: 60px;
     }
     li {
         padding-right: 10px;
@@ -101,7 +101,34 @@ body {
         display: inline-block;
     }
     .banner video {
+        padding-bottom: 99px;
         width: 100%;
+    }
+    .banner h1 {
+        font-size: 18px;
+        padding-top: 93px;
+    }
+    #navbar #logo img {
+        margin-left: -76px;
+    }
+    #nav ul {
+        float: right;
+        margin-top: -70px;
+    }
+    footer {
+        margin: -87px;
+    }
+    p#yawa {
+        font-size: 9px;
+    }
+    p#haha {
+        font-size: 9px;
+    }
+    p#huhu {
+        margin-left: 83px;
+    }
+    .social {
+        margin-left: 92px;
     }
 }
 .box {
