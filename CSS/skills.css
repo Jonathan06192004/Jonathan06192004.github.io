@@ -75,6 +75,23 @@ body {
     font-size: 16px;
     font-family: Arial, sans-serif;
 }
+.Roger{
+    border: 5px solid #e2ec22;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    width: 55%;
+
+}.Bruno{
+    border: 5px solid #e2ec22;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 20px;
+    width: 55%;
+
+
+}
 
 /* Media query for screens smaller than 600px */
 @media (max-width: 600px) {
@@ -130,6 +147,31 @@ body {
     }
     .banner p#paragraph3 {
         font-size: 9px;
+    }
+    p#whaat {
+        color: aliceblue;
+    }
+    p#paragraph3 {
+        color: aliceblue;
+    }
+    p#paragraph2 {
+        color: aliceblue;
+    }
+    p#paragraph1 {
+        color: aliceblue;
+    }
+    .skill {
+        border-radius: 5px;
+    }
+    .Bruno{
+        margin-top: 16px;
+        width: 100%;
+        margin-bottom: 89px;
+
+    }
+    .Roger{
+        width: 100%;
+
     }
 }
 .box {

@@ -126,7 +126,14 @@ body {
         display: inline-block;
     }
     .shesh p#welcome{
-        margin-bottom: 109px
+        margin-bottom: 109px;
+        
+    }
+    .shesh p#gags{
+        color: aliceblue;
+        margin-bottom: 109px;
+
+
     }
     .banner h1 {
         font-size: 18px;

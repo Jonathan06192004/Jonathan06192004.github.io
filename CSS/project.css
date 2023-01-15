@@ -74,7 +74,12 @@ body {
     font-size: 16px;
     font-family: Arial, sans-serif;
 }
-
+.banner video{
+    border: 5px solid #e2ec22;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+}
 /* Media query for screens smaller than 600px */
 @media (max-width: 600px) {
     body {
@@ -103,6 +108,7 @@ body {
     .banner video {
         padding-bottom: 99px;
         width: 100%;
+        margin-bottom: 89px;
     }
     .banner h1 {
         font-size: 18px;

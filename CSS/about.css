@@ -80,6 +80,37 @@ body {
     font-size: 16px;
     font-family: Arial, sans-serif;
 }
+#about-me {
+    padding: 20px;
+}
+  
+#about-me p {
+    font-size: 18px;
+    line-height: 1.5;
+
+}
+p#baba {
+    border: 5px solid #e2ec22;
+    border-radius: 10px;
+    width: 25%;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+.banner video#tata {
+    border: 5px solid #e2ec22;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    width: 90%;
+}
+.banner video#tas {
+    border: 5px solid #e2ec22;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    width: 30%;
+}
 
 
 /* Media query for screens smaller than 600px */
@@ -130,12 +161,16 @@ body {
     }
     p#haha {
         font-size: 9px;
+        color: aliceblue;
     }
     p#huhu {
         margin-left: 83px;
     }
     .social {
         margin-left: 107px;
+    }
+    .banner video#tas{
+        width: 50%;
     }
 }
 .box {
