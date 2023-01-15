@@ -172,6 +172,9 @@ p#baba {
     .banner video#tas{
         width: 50%;
     }
+    p#baba {
+        font-size: 5px;
+    }
 }
 .box {
     flex: 1;

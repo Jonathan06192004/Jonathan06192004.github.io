@@ -150,6 +150,13 @@ body {
     }
     p#whaat {
         color: aliceblue;
+        font-size: 5px;
+    }
+    p#nak{
+        font-size: 5px;
+    }
+    h2#just{
+        font-size: 15px;
     }
     p#paragraph3 {
         color: aliceblue;
